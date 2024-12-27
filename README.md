@@ -11,5 +11,5 @@ Linear search for students and courses.
 Comparison-based sorting for course popularity.
 Testing:
 Verified using Postman for API functionality.
-![image](https://github.com/user-attachments/assets/9e75733b-b289-4a05-975f-a1c64517129d)
+
 
