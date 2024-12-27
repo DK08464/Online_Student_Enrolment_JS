@@ -1,0 +1,8 @@
+{"id":1,"name":"RAJ","courses":["Physics 101","Math 101"]}
+{"id":2,"name":"RAJA","courses":["Physics 101","History 101"]}
+{"id":3,"name":"RAJESH","courses":["Math 101","History 101"]}
+{"id":4,"name":"RAM","courses":["Physics 101","History 101"]}
+{"id":5,"name":"SHYAM","courses":["Physics 101","Math 101"]}
+{"id":6,"name":"JOHN","courses":["Math 101"]}
+{"id":7,"name":"SMITH","courses":["History 101","Math 101"]}
+{"id":8,"name":"DK","courses":["History 101","Math 101"]}
